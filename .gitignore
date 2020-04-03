@@ -3,7 +3,6 @@
 .tscache
 .baseDir.js
 .baseDir.ts
-yarn.lock
 .nyc_output
 yarn-error.log
 
@@ -11,7 +10,6 @@ yarn-error.log
 /examples/basic/json.json
 /node_modules/
 /coverage/
-/dist/
 
 typedoc*.tgz
 tmp
